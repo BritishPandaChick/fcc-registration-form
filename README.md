@@ -1,14 +1,13 @@
-# Registration Forms 
-freeCodeCamp responsive web design project from 2022 update. HTML registration forms project.
+# Registration Form 
+freecodecamp responsive web design project from 2022 update.
 
-## Dependencies
+## Tech Stack
 * HTML
 
 ## Instructions
-Clone this repo or download the zip file. Open the index.html file in the browser to see the forms.
-
-## Contributions
-This project is based on code from freeCodeCamp. Therefore I will not be accepting any pull requests.
+1. Clone this repo or download the zip file. 
+2. Open the index.html file in the browser.
+3. You can type your answers in the input fields and pick the type account. Click the check box field and choose file button. The dropdown menu to pick one of the options.
 
 ## Acknowledgements
-* freeCodeCamp
+* freecodecamp
